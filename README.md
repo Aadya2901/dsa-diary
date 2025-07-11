@@ -21,23 +21,7 @@ This repo tracks my journey through platforms like LeetCode, GeeksforGeeks, and 
 ## 📂 Folder Structure
 
 
-dsa-diary/
-├── Arrays/
-│   ├── TwoSum.java
-│   └── MaxSubarray.java
-├── Strings/
-│   └── ReverseString.java
-├── Trees/
-├── Recursion/
-├── DynamicProgramming/
-├── Sorting/
-├── Searching/
-├── Backtracking/
-├── Notes/
-│   └── Concepts.md
-├── README.md
-└── update_readme_log.py
-
+<pre> ``` dsa-diary/ ├── Arrays/ │ ├── TwoSum.java │ └── MaxSubarray.java ├── Strings/ │ └── ReverseString.java ├── Trees/ ├── Recursion/ ├── DynamicProgramming/ ├── Sorting/ ├── Searching/ ├── Backtracking/ ├── Notes/ │ └── Concepts.md ├── README.md └── update_readme_log.py ``` </pre>
 
 ---
 
