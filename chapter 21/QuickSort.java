@@ -49,3 +49,25 @@ public class QuickSort {
         printArr(arr);
     }
 }
+
+
+/*
+ * QUICK_SORT(arr, low, high):
+    if low < high:
+        pIdx = PARTITION(arr, low, high)
+        QUICK_SORT(arr, low, pIdx - 1)
+        QUICK_SORT(arr, pIdx + 1, high)
+
+PARTITION(arr, low, high):
+    pivot = arr[high]
+    i = low - 1
+
+    for j = low to high - 1:
+        if arr[j] < pivot:
+            i++
+            swap arr[i] and arr[j]
+
+    swap arr[i+1] and arr[high]
+    return i + 1
+
+ */

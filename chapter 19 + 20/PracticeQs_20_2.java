@@ -6,5 +6,10 @@ public class PracticeQs_20_2 {
             return;
         }
 
+        
+    }
+
+    public static void main (String args[]) {
+        String 
     }
 }
